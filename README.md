@@ -1,4 +1,4 @@
-# Top-course
+![Screenshot 2024-03-18 093517](https://github.com/sagarchaurasia176/Top-course/assets/101509099/473f84d0-5e7c-41b5-ab9b-c5b224eee2df)# Top-course
  
 # TOP-COURSES WEB 
 
@@ -22,7 +22,9 @@ cls
     npm run dev
   
 ```
-    
+   
+
 ## Screenshots
+![Screenshot 2024-03-18 093517](https://github.com/sagarchaurasia176/Top-course/assets/101509099/316aa2be-2451-4184-8ffe-fdc1ddc15e76)
 
  
